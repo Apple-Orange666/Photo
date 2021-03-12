@@ -132,7 +132,6 @@ $(function() {
                 }
             ];
             dataFall = json
-            console.log(dataFall);
             setTimeout(function() {
                 appendFall();
             }, 500)
